@@ -21,7 +21,7 @@ complete_url = base_url + "appid=" + api_key + "&q=" + city_name
 # get method of requests module
 # return response object
 response = requests.get(complete_url)
-
+#madhan project
 # json method of response object
 # convert json format data into
 # python format data
